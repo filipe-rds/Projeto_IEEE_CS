@@ -1,9 +1,9 @@
 <h1 align="center">💻 Projeto - IEEE Computer Society  </h1>
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/filipe-rds/Projeto-Capacitacao-IA-Ciclo-1?color=green">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/filipe-rds/Projeto-Capacitacao-IA-Ciclo-1?color=green">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/filipe-rds/Projeto-Capacitacao-IA-Ciclo-1?color=green">
-  <img alt="GitHub license" src="https://img.shields.io/github/license/filipe-rds/Projeto-Capacitacao-IA-Ciclo-1?color=green"><img>
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/filipe-rds/Projeto_IEEE_CS?color=yellow">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/filipe-rds/Projeto_IEEE_CS?color=yellow">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/filipe-rds/Projeto_IEEE_CS?color=yellow">
+  <img alt="GitHub license" src="https://img.shields.io/github/license/filipe-rds/Projeto_IEEE_CS?color=yellow"><img>
 </p>
 <div align="center">
   <img src='https://ieeecs-media.computer.org/wp-media/2022/04/28195553/IEEE-CS_Logo-177x61-2x-orange-white.png'>
