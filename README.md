@@ -9,7 +9,7 @@
   <img src='https://ieeecs-media.computer.org/wp-media/2022/04/28195553/IEEE-CS_Logo-177x61-2x-orange-white.png'>
 </div>
 <div><br>
-    <h3>🔎 Objetivo:</h3>
+    <h3>🔎 Objetivo</h3>
     <p>Construir um projeto que contemple os conhecimentos adquiridos pelo curso de Python oferecido pelo IEEE CS no IFPB</p>
 </div>
 <div style="display: inline_block" ><br>
@@ -18,7 +18,7 @@
     <img alt="Colab" src="https://img.shields.io/badge/Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=white">
 </div>
 <div style="display: inline_block" ><br>
-  <h3>🧑🏻‍💻 Desenvolvedores:</h3>
+  <h3>🧑🏻‍💻 Desenvolvedores</h3>
   <a align="center" href="https://github.com/filipe-rds" target="_blank"><img  src="https://img.shields.io/badge/Filipe_Rodrigues-000000?style=for-the-badge&logo=GitHub&logoColor=white" target="_blank"></a>
   <br>
   <a align="center" href="https://github.com/Nillocoelho" target="_blank"><img  src="https://img.shields.io/badge/Danillo_Coelho-000000?style=for-the-badge&logo=GitHub&logoColor=white" target="_blank"></a>
